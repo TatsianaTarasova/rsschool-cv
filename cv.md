@@ -13,4 +13,14 @@ I know that after a lot of effort, everything is possible, and i will write high
 Not becoming Hokage if you surrender!
 ## **Skills**
 newbie  
+## **Experience**
+newbie   
+## **Education**
+**Mozyr Medical College**  
+Faculty of Medical Diagnostic  
+Paramedic laboratory assistant  
+2011-2014  
+## **English** 
+**A1.Beginner и Elementary**  
+Everyday practice on [lingualeo](https://lingualeo.com/en)
 
