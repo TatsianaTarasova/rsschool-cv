@@ -10,7 +10,6 @@ My job is a assistant in a medical hematological laboratory.
 It's not boring, but working with sick patients leads to emotional burnout.  
 I have no experience in Front-End Development, this is what I want to learn.  
 I know that after a lot of effort, everything is possible, and i will write high level code.  
-Not becoming Hokage if you surrender!
 ## **Skills**
 newbie  
 ## **Experience**
